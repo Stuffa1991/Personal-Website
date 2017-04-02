@@ -10,3 +10,7 @@ $prefix-for-opera:     true;
 $prefix-for-spec:      true;
 
 @import "../bower_components/materialize/sass/materialize";
+
+@import "partials/base";
+
+@import "partials/nav";

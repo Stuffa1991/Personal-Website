@@ -1,0 +1,1 @@
+jQuery(document).ready(function(e){Typed.new(".iDo",{strings:["Web Stuff","PHP","HTML","NodeJS","Angular","CSS","and alot of other stuff"],typeSpeed:200,backSpeed:100,loop:!0,backDelay:2e3})});
